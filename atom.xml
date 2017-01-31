@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://buan1903.github.io/"/>
-  <updated>2017-01-30T09:09:24.000Z</updated>
+  <updated>2017-01-31T10:35:17.000Z</updated>
   <id>http://buan1903.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[post]myguitar</title>
+    <link href="http://buan1903.github.io/undefined/post-myguitar.html"/>
+    <id>http://buan1903.github.io/undefined/post-myguitar.html</id>
+    <published>2017-01-31T10:28:21.000Z</published>
+    <updated>2017-01-31T10:35:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#hhhhhhhhhhhhh</p>
+<p>##dsafgfsnbdfsdg<br><img src="http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg" alt=""><br><a href="http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg" target="_blank" rel="external">http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#hhhhhhhhhhhhh&lt;/p&gt;
+&lt;p&gt;##dsafgfsnbdfsdg&lt;br&gt;&lt;img src=&quot;http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://okn3
+    
+    </summary>
+    
+      <category term="undefined" scheme="http://buan1903.github.io/categories/undefined/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>123</title>
