@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://buan1903.github.io/"/>
-  <updated>2017-01-31T10:35:17.000Z</updated>
+  <updated>2017-02-02T15:12:38.000Z</updated>
   <id>http://buan1903.github.io/</id>
   
   <author>
@@ -16,52 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>[post]myguitar</title>
-    <link href="http://buan1903.github.io/undefined/post-myguitar.html"/>
-    <id>http://buan1903.github.io/undefined/post-myguitar.html</id>
+    <title>My Jackson Kelly Guitar</title>
+    <link href="http://buan1903.github.io/post-myguitar.html"/>
+    <id>http://buan1903.github.io/post-myguitar.html</id>
     <published>2017-01-31T10:28:21.000Z</published>
-    <updated>2017-01-31T10:35:17.000Z</updated>
+    <updated>2017-02-02T15:12:38.000Z</updated>
     
-    <content type="html"><![CDATA[<p>#hhhhhhhhhhhhh</p>
-<p>##dsafgfsnbdfsdg<br><img src="http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg" alt=""><br><a href="http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg" target="_blank" rel="external">http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg</a></p>
+    <content type="html"><![CDATA[<p>This is my Jackson Kelly Guitar<br><img src="http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg" alt=""></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;#hhhhhhhhhhhhh&lt;/p&gt;
-&lt;p&gt;##dsafgfsnbdfsdg&lt;br&gt;&lt;img src=&quot;http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://okn3
+      &lt;p&gt;This is my Jackson Kelly Guitar&lt;br&gt;&lt;img src=&quot;http://okn3yh48r.bkt.clouddn.com/images/myguitar.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
     
     </summary>
     
-      <category term="undefined" scheme="http://buan1903.github.io/categories/undefined/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>123</title>
-    <link href="http://buan1903.github.io/diary/123.html"/>
-    <id>http://buan1903.github.io/diary/123.html</id>
-    <published>2017-01-30T09:02:20.000Z</published>
-    <updated>2017-01-30T09:09:24.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="diary" scheme="http://buan1903.github.io/categories/diary/"/>
-    
-    
-      <category term="java" scheme="http://buan1903.github.io/tags/java/"/>
+      <category term="Diary" scheme="http://buan1903.github.io/tags/Diary/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://buan1903.github.io/null/hello-world.html"/>
-    <id>http://buan1903.github.io/null/hello-world.html</id>
+    <link href="http://buan1903.github.io/hello-world.html"/>
+    <id>http://buan1903.github.io/hello-world.html</id>
     <published>2017-01-30T07:34:42.000Z</published>
-    <updated>2017-01-30T07:34:42.000Z</updated>
+    <updated>2017-02-02T15:34:51.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -80,6 +61,16 @@
     
     </summary>
     
+    
+      <category term="Diary" scheme="http://buan1903.github.io/tags/Diary/"/>
+    
+      <category term="Java" scheme="http://buan1903.github.io/tags/Java/"/>
+    
+      <category term="Machine Learning" scheme="http://buan1903.github.io/tags/Machine-Learning/"/>
+    
+      <category term="Python" scheme="http://buan1903.github.io/tags/Python/"/>
+    
+      <category term="Undefined" scheme="http://buan1903.github.io/tags/Undefined/"/>
     
   </entry>
   
