@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://buan1903.github.io/about.html</loc>
+    <loc>http://buan1903.github.io/test.html</loc>
     
-    <lastmod>2017-02-03T03:06:35.000Z</lastmod>
+    <lastmod>2017-02-04T09:51:29.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://buan1903.github.io/zaodiandao.html</loc>
+    
+    <lastmod>2017-02-04T09:31:40.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://buan1903.github.io/hello-world.html</loc>
     
-    <lastmod>2017-02-02T15:34:51.000Z</lastmod>
+    <lastmod>2017-02-04T07:58:11.000Z</lastmod>
     
   </url>
   

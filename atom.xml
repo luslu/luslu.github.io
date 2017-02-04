@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://buan1903.github.io/"/>
-  <updated>2017-02-03T03:06:35.000Z</updated>
+  <updated>2017-02-04T09:51:29.000Z</updated>
   <id>http://buan1903.github.io/</id>
   
   <author>
@@ -16,31 +16,64 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>About</title>
-    <link href="http://buan1903.github.io/about.html"/>
-    <id>http://buan1903.github.io/about.html</id>
-    <published>2017-02-03T03:05:46.000Z</published>
-    <updated>2017-02-03T03:06:35.000Z</updated>
+    <title>关于</title>
+    <link href="http://buan1903.github.io/test.html"/>
+    <id>http://buan1903.github.io/test.html</id>
+    <published>2017-02-04T09:46:41.000Z</published>
+    <updated>2017-02-04T09:51:29.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<h4 id="我"><a href="#我" class="headerlink" title="我"></a>我</h4><p>这是我的第一个博客 感谢你的来访</p>
+<p>刘钰安 or Yuan Liu<br>NikeName: 钰安 安安 元<br>吉他手 Programmer<br>微博 LyAn_nAyL / 微信 buan1903 / 邮箱 yuanliu699@foxmail.com /  GitHub buan1903</p>
+<h4 id="目的"><a href="#目的" class="headerlink" title="目的"></a>目的</h4><p>??? : “他会经常忘记代码的语法和一些API，所以他经常需要去查API甚至查语法，他觉得没有Google我几乎没法工作。这在某些人的眼里，是技术不够的表现。他记的只是一个Key，一个如何找寻答案的索引，而不是全部，人脑不是电脑，他不可能要求我能记下所有的东西。”</p>
+<p>建立这个博客目的是 整理 和 查阅 以及 自由而纯粹的中英文写作</p>
+<h4 id="什么"><a href="#什么" class="headerlink" title="什么"></a>什么</h4><p>九五年七夕生 狮子座 南昌大学 一七年 行将毕业</p>
+<p>热爱电吉他 偶像是 Pual Gilbert  Steve Vai &amp; 小林信一<br>最近爱听Children of Bodom<br>也听民谣<br>听不懂流行乐 一点也不practial</p>
+<p>大一开始组乐队 名为 the dreamer 遇到了一帮很好的队友 参加了当年的微光音乐节<br>大二组建了 逆旅乐队 参加了一些演出 过的很开心<br>大三 组建了 北城以北乐队 玩民谣  玩随便什么只要开心就好<br>今年春天 北城以北乐队即将举办毕业专场 一定来看</p>
+<p>热爱技术<br>大二开始学习网页技术 html等 还使用过ruby&amp;ruby on rails<br>同时开始接触Android 和早点到团队队友们 开发了一个应用</p>
+<p>现在将转向深度学习方向 想去读个PhD<br>目前正在学习Andrew Ng 的 CS229 Machine Learning</p>
+<p>厌恶家庭生活 喜欢独居 本来就颇为缺乏的决策力 倾向做更有意义的选择<br>不愿囿于昼夜 厨房与爱</p>
+<h4 id="last-大事记"><a href="#last-大事记" class="headerlink" title="last 大事记"></a>last 大事记</h4><blockquote>
+<p>2017 一月底        建立博客</p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h4 id=&quot;我&quot;&gt;&lt;a href=&quot;#我&quot; class=&quot;headerlink&quot; title=&quot;我&quot;&gt;&lt;/a&gt;我&lt;/h4&gt;&lt;p&gt;这是我的第一个博客 感谢你的来访&lt;/p&gt;
+&lt;p&gt;刘钰安 or Yuan Liu&lt;br&gt;NikeName: 钰安 安安 元&lt;br&gt;吉他手 Progra
     
     </summary>
     
     
       <category term="Diary" scheme="http://buan1903.github.io/tags/Diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Zaodiandao</title>
+    <link href="http://buan1903.github.io/zaodiandao.html"/>
+    <id>http://buan1903.github.io/zaodiandao.html</id>
+    <published>2017-02-04T07:53:31.000Z</published>
+    <updated>2017-02-04T09:31:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a breakfast booking application that my teammates and I developed on 2014. We participate in the The First China Youth Innovation Entrepreneurship APP Competition and won the Excellence Prize. For more details on technology, please go to <a href="https://github.com/buan1903/zaodiandao.git" target="_blank" rel="external">github repository</a>.</p>
+<p>I am proud of my teammates.</p>
+<iframe height="498" width="510" src="http://okn3yh48r.bkt.clouddn.com/zaodiandaozaodiandaointroduction.mp4" frameborder="0" 'allowfullscreen'=""></iframe>
+
+<p><img src="http://okn3yh48r.bkt.clouddn.com/1.jpg" alt=""></p>
+<p><img src="http://okn3yh48r.bkt.clouddn.com/2.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is a breakfast booking application that my teammates and I developed on 2014. We participate in the The First China Youth Innovation
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://buan1903.github.io/tags/Java/"/>
+    
+      <category term="Android" scheme="http://buan1903.github.io/tags/Android/"/>
     
   </entry>
   
@@ -71,7 +104,7 @@
     <link href="http://buan1903.github.io/hello-world.html"/>
     <id>http://buan1903.github.io/hello-world.html</id>
     <published>2017-01-30T07:34:42.000Z</published>
-    <updated>2017-02-02T15:34:51.000Z</updated>
+    <updated>2017-02-04T07:58:11.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -98,6 +131,26 @@
       <category term="Machine Learning" scheme="http://buan1903.github.io/tags/Machine-Learning/"/>
     
       <category term="Python" scheme="http://buan1903.github.io/tags/Python/"/>
+    
+      <category term="Android" scheme="http://buan1903.github.io/tags/Android/"/>
+    
+      <category term="Computer Vision" scheme="http://buan1903.github.io/tags/Computer-Vision/"/>
+    
+      <category term="NLP" scheme="http://buan1903.github.io/tags/NLP/"/>
+    
+      <category term="Web" scheme="http://buan1903.github.io/tags/Web/"/>
+    
+      <category term="Tech" scheme="http://buan1903.github.io/tags/Tech/"/>
+    
+      <category term="Hexo" scheme="http://buan1903.github.io/tags/Hexo/"/>
+    
+      <category term="Github" scheme="http://buan1903.github.io/tags/Github/"/>
+    
+      <category term="Git" scheme="http://buan1903.github.io/tags/Git/"/>
+    
+      <category term="Music" scheme="http://buan1903.github.io/tags/Music/"/>
+    
+      <category term="Guitar" scheme="http://buan1903.github.io/tags/Guitar/"/>
     
       <category term="Undefined" scheme="http://buan1903.github.io/tags/Undefined/"/>
     
