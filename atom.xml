@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://buan1903.github.io/"/>
-  <updated>2017-02-04T09:51:29.000Z</updated>
+  <updated>2017-02-12T13:51:14.000Z</updated>
   <id>http://buan1903.github.io/</id>
   
   <author>
@@ -14,6 +14,78 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Machine Learning Assignments</title>
+    <link href="http://buan1903.github.io/test01.html"/>
+    <id>http://buan1903.github.io/test01.html</id>
+    <published>2017-02-12T13:03:04.000Z</published>
+    <updated>2017-02-12T13:51:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Machine-Learning-Foundations-A-Case-Study-Approach"><a href="#Machine-Learning-Foundations-A-Case-Study-Approach" class="headerlink" title="Machine Learning Foundations: A Case Study Approach"></a>Machine Learning Foundations: A Case Study Approach</h3><p>这门课深入浅出地介绍了机器学习方法的各种典型案例和概念<br>下面是我完成的这门基础课程的一些课程作业和总结的概念集合  </p>
+<h4 id="Regression："><a href="#Regression：" class="headerlink" title="Regression："></a>Regression：</h4><ul>
+<li>Linear Regression</li>
+<li>Overfitting</li>
+<li>Training/Test Curves</li>
+<li>Mulitiple Linear Regression</li>
+</ul>
+<p><a href="ML_Assignments/Assignment__Predicting house prices.html" target="_blank">运用回归算法进行房价预测</a></p>
+<h4 id="Classification"><a href="#Classification" class="headerlink" title="Classification:"></a>Classification:</h4><ul>
+<li>Classifier Model</li>
+<li>Linear Classifier Model</li>
+<li>RSS: Residual sum of squares</li>
+<li>Decision Boundaries</li>
+<li>Classification error &amp; accuracy</li>
+<li>Confusion matrix(binary classification &amp; multiclass classification)</li>
+<li>Learning curves (Relationship between the amount of training data and the test error)</li>
+<li>Bias of model</li>
+</ul>
+<p><a href="ML_Assignments/Assignment__ Analyzing products sentiment.html" target="_blank">产品评论情感分析</a></p>
+<h4 id="Clustering-and-Similarity"><a href="#Clustering-and-Similarity" class="headerlink" title="Clustering and Similarity"></a>Clustering and Similarity</h4><ul>
+<li>Bag of words model</li>
+<li>Local frequency &amp; global rarity</li>
+<li>TF-IDF document representation (Term frequency – inverse document frequency)</li>
+<li>1-Nearest neighbor &amp; K-Nearest neighbor</li>
+<li>Clustering</li>
+<li>K-means algorithm</li>
+</ul>
+<p><a href="ML_Assignments/TAssignment__Retrieving Wikipedia articles.html" target="_blank">应用聚类进行维基文章检索</a></p>
+<h4 id="Product-recommendations"><a href="#Product-recommendations" class="headerlink" title="Product recommendations"></a>Product recommendations</h4><ul>
+<li>Simplest approach: Popularity</li>
+<li>Classification model</li>
+<li>Co-occurrence matrix</li>
+<li>Jaccard similarity</li>
+<li>matrix factorization</li>
+<li>Matrix factorization model</li>
+<li>Precision-recall curve</li>
+<li>area under the curve (AUC)</li>
+</ul>
+<p><a href="ML_Assignments/Assignment__Recommending songs.html" target="_blank">用户歌曲推荐</a></p>
+<h4 id="Deep-Learning"><a href="#Deep-Learning" class="headerlink" title="Deep Learning"></a>Deep Learning</h4><ul>
+<li>XOR: a⊕b = (¬a ∧ b) ∨ (a ∧¬b)</li>
+<li>Neural network</li>
+<li>Image features (local detectors &amp; collections of locally interesting points)</li>
+<li>RIFT</li>
+<li>Deep learning Pros and Cons</li>
+<li>Transfer learning: Use data from one task to help learn on another</li>
+</ul>
+<p><a href="ML_Assignments/Test_Deep Features for Image Classification.html" target="_blank">运用迁移学习的方法利用深度特征进行图片分类</a><br><a href="ML_Assignments/.html" target="_blank">运用迁移学习的方法利用深度特征进行图片检索</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Machine-Learning-Foundations-A-Case-Study-Approach&quot;&gt;&lt;a href=&quot;#Machine-Learning-Foundations-A-Case-Study-Approach&quot; class=&quot;headerlink&quot;
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="http://buan1903.github.io/tags/Machine-Learning/"/>
+    
+      <category term="Python" scheme="http://buan1903.github.io/tags/Python/"/>
+    
+      <category term="Tech" scheme="http://buan1903.github.io/tags/Tech/"/>
+    
+  </entry>
   
   <entry>
     <title>关于</title>
